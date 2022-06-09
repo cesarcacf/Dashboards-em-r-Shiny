@@ -1,0 +1,14 @@
+name: 04-dois-inputs-outputs
+title: 04-dois-inputs-outputs
+username:
+account: cesarferreira
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6419106
+bundleId: 5971792
+url: https://cesarferreira.shinyapps.io/04-dois-inputs-outputs/
+when: 1654182483.13832
+lastSyncTime: 1654182483.13832
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01-ola-mundo.R|02-output.R|03-output-input.R|desktop.ini
